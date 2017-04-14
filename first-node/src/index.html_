@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>first node</title>
+    <style>
+        .center {
+            margin: auto;
+            width: 50%;
+            border: 3px solid green;
+            padding: 1px;
+            text-align: center;
+            background-color: #0000AA;
+            display: block;
+        }
+        .item-div {
+            background-color: yellow;
+            width: 50%;
+        }
+        .row {
+            width: 50%;
+        }
+        #item-img {
+
+        }
+    </style>
+</head>
+<body>
+
+<div class="row">
+    <div class="item-div">
+        <img src="images/no-image-512.png" id="item-img" class="center"/>
+        <hr>
+        <h1 class="center">رستوران گل یاس</h1>
+        <span>48%</span>
+        <span class="center">فرمانیه</span>
+        <span>۱۰</span>
+    </div>
+</div>
+
+</body>
+</html>
+
